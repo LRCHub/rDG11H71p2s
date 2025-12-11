@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "誰もが死にたがる夜に",
+  "base_artist": "HALVES",
+  "createdAt": "2025-12-11T09:52:30.920694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰もが死にたがる夜に - On a night when everyone wants to die",
+      "artist": "HALVES",
+      "has_synced": true,
+      "path": "select/01_誰もが死にたがる夜に_-_On_a_night_when_everyone_wants_to_die_HALVES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰もが死にたがる夜に",
+      "artist": "HALVES",
+      "has_synced": false,
+      "path": "select/pl_01_誰もが死にたがる夜に_HALVES.txt"
+    }
+  ]
+}
